@@ -7,7 +7,7 @@ export default function Header({ title }) {
       </p>
 
       <p>
-      You can report a hacker by filling in the form at the botoom of the page or joining our <a href="https://nextjs.org/">discord server</a>.
+      You can report a hacker by filling in the form at the bottom of the page or joining our <a href="https://nextjs.org/">discord server</a>.
 
         Stay Safe!
       </p>

@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <>
       <footer className={styles.footer}>
-        Made with <img src="/heart.svg" alt="Heart" className={styles.logo} />
+        Made with ❤️
         Be Safe Online!
       </footer>
     </>

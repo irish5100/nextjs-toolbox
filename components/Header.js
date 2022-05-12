@@ -5,7 +5,7 @@ export default function Header({ title }) {
       <p>
         Hi 👋! This site allows you to view some known hackers our
         team has detected online.
-        </a>
+        <a>
       </p>
 
       <p>

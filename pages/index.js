@@ -1,3 +1,8 @@
+<?php
+$vist_page     =   "index.php";
+include "logger.php";
+?>
+
 import Head from "next/head";
 import Header from "@components/Header";
 import Footer from "@components/Footer";

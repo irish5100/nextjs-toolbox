@@ -10,8 +10,9 @@ export default function Header({ title }) {
 
       <p>
       You can report a hacker by filling in the form at the botoom of the page or joining our <a href="https://nextjs.org/">discord server</a>.
-          </a>
 </p>
+          </a>
+
     </>
   );
 }
